@@ -1,4 +1,4 @@
-`include "decoder_3x8.v"
+`include "Decoder_3x8\decoder_3x8.v"
 module decoder_tb;
 wire [7:0] out;
 reg en;
