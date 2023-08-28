@@ -1,4 +1,4 @@
-`include "FA.v"
+`include "Full_adder\FA.v"
 module FA_tb;
 
     reg x,y,z;  // a , b, c1
