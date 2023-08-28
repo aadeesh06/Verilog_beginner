@@ -1,7 +1,7 @@
 //this code is for 4 - bit ripple carry adder.
 // I am instantiating full adder modules for implementation.
 // Warning : This code is only for simulation purpose. It may or may not be synthesizable.
-`include "FA.v"
+`include "Ripple_carry_adder\FA.v"
 module RCA_4bit(s,c_out,a,b,c_in);
     output [3:0]s;
     output c_out;

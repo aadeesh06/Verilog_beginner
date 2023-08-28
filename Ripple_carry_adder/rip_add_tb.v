@@ -1,4 +1,4 @@
-`include "rip_add.v"
+`include "Ripple_carry_adder\rip_add.v"
 module RCA_tb;
 
     reg [3:0] a,b;
