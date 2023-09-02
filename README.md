@@ -1,4 +1,4 @@
-# Verilog_beginner\
+# Verilog_beginner
 .....................................................................................................................................\
 This repository is useful for those who are beginners in Verilog.\
 I have used VSCode for writing the codes.\
@@ -13,4 +13,4 @@ Link - https://youtu.be/3Xm6fgKAO94?si=GfC4JYR_OhIQdEyw\
 .....................................................................................................................................\
 PREREQUISITES: A basic understanding of Digital electronics and Digital circuit design is necessary before implementing these codes.\
                Understanding of different modeling techniques in Verilog is a plus.\
-.....................................................................................................................................\
+.....................................................................................................................................
